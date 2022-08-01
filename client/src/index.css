@@ -1,0 +1,14 @@
+.Home{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-content: center;
+}
+.box{
+  padding: 20px;
+  font-size: 22px;
+}
+
+.info{
+  margin: 14vw;
+}
